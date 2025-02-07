@@ -6,7 +6,7 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-   <class name="com.itlearn.testcases.LoginTestDataDrivenTesting"/> 
+   <class name="com.itlearn.testcases.LoginTest"/> 
       
   <!--      <class name="com.itlearn.testcases.DashboardTestCase"/> -->
         
