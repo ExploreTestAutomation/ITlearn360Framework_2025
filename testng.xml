@@ -8,7 +8,7 @@
     <classes>
     <!--    <class name="com.itlearn.testcases.LoginTest"/>  -->
       
-   <class name="com.itlearn.testcases.DashboardTestCase"/>
+   <class name="com.itlearn.testcases.DashBoardTest"/>
         
     <!--    <class name="com.itlearn.testcases.PaymentTestCase"/> -->
     </classes>
